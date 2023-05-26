@@ -1,4 +1,4 @@
-package ar.com.jekipes.app
+package ar.com.juanek.app
 
 import org.junit.After
 import org.junit.AfterClass
@@ -10,7 +10,7 @@ import static org.junit.Assert.*
 
 /**
  *
- *   mvn -Dtest=ar.com.jekipes.app.UtilTest test
+ *   mvn -Dtest=ar.com.juanek.app.UtilTest test
  *
  * @author juan kipes
  */

@@ -1,7 +1,7 @@
-package ar.com.jekipes.app
+package ar.com.juanek.app
 
 /**
- * mvn -q exec:java -DmainClass="ar.com.jekipes.app.Util"
+ * mvn -q exec:java -DmainClass="ar.com.juanek.app.Util"
  * @author juan kipes
  */
 class Util {

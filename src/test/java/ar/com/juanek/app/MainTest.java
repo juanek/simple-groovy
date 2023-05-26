@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ar.com.jekipes.app;
+package ar.com.juanek.app;
 
 import org.junit.After;
 import org.junit.AfterClass;
@@ -13,7 +13,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *   mvn -Dtest=ar.com.jekipes.app.MainTest test
+ *   mvn -Dtest=ar.com.juanek.app.MainTest test
  * @author juan kipes
  */
 public class MainTest {
